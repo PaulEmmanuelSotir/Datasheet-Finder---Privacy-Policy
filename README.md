@@ -1,11 +1,11 @@
-Datasheet-Finder---Privacy-Policy
+Datasheet Finder, Privacy-Policy
 =================================
 
  Windows 8.1 Datasheet Finder Application's Privacy Policy
  
 
-######## English Privacy Policy ########
-========================================
+English Privacy Policy
+======================
 
 Datasheet Finder privacy policy 
 
@@ -29,8 +29,8 @@ Changes to this privacy policy
 
 Datasheet Finder reserves the right to modify this document. If we use your personal information differently than specified in the legal information provided at the time of collection of the data, users will be notified through announcements posted on Datasheet Finder.
 
-######## Politique de confidentialité Française ########
-========================================================
+Politique de confidentialité Française
+======================================
 
 Politique de confidentialité de Datasheet Finder 
 
