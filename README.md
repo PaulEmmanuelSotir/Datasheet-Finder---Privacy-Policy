@@ -52,4 +52,4 @@ Les renseignements personnels que vous fournissez à Datasheet Finder pour l'enr
 
 Changements à cette politique de confidentialité 
 
-Datasheet Finderse réserve le droit de modifier ce document. Si nous utilisons vos informations personnelles autrement que spécifié dans l'information juridique fournie au moment de la collecte des données, les utilisateurs seront informés par le biais de messages affichés par Datasheet Finder. 
+Datasheet Finder se réserve le droit de modifier ce document. Si nous utilisons vos informations personnelles autrement que spécifié dans l'information juridique fournie au moment de la collecte des données, les utilisateurs seront informés par le biais de messages affichés par Datasheet Finder. 
