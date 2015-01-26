@@ -1,7 +1,7 @@
-Datasheet Finder, Privacy-Policy
+Datasheet Finder - Privacy policy
 =================================
 
- Windows 8.1 Datasheet Finder Application's Privacy Policy
+ Datasheet Finder Windows application's privacy policy
  
 
 English Privacy Policy
